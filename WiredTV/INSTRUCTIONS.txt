@@ -1,0 +1,18 @@
+HOW TO GET YOUR OWN SERIES/ADS/BUMPERS
+####### EPISODES #######
+1.Go to Resources/Media
+2.Add a folder for the series
+3.Paste in all the episodes named "E1", "E2", "E3"... "En"
+####### BUMPERS #######
+1.Go to Resources/Bumpers
+2.Paste in all the bumpers you want
+####### ADS #######
+1.Go to Resources/Ads
+2.Paste in all the ads you want
+
+
+
+
+
+
+Made by Simon, 2024. Feel free to copy and use with no credit necessary
